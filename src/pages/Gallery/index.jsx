@@ -11,12 +11,12 @@ export function Gallery() {
       <Header />
       <S.ContainerGeral>
         <S.ContainerImg>
-          <S.ImageJoker src={CoringaOne} />
-          <S.ImageJoker src={CoringaTwo} />
+          <S.ImageJoker loading="lazy" src={CoringaOne} />
+          <S.ImageJoker loading="lazy" src={CoringaTwo} />
         </S.ContainerImg>
         <S.ContainerImg>
-          <S.ImageJoker src={CoringaFour} />
-          <S.ImageJoker src={CoringaThree} />
+          <S.ImageJoker loading="lazy" src={CoringaFour} />
+          <S.ImageJoker loading="lazy" src={CoringaThree} />
         </S.ContainerImg>
         
       </S.ContainerGeral>

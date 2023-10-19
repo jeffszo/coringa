@@ -6,6 +6,6 @@ body {
     background-image: url('../src/assets/joker-cover.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+    overflow-x: hidden;
     list-style: none;
 }
