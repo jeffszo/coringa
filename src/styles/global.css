@@ -3,7 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    background-image: url('../src/assets/joker-cover.jpg');
+    background-image: url('../assets/joker-cover.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
